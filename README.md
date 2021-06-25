@@ -1,1 +1,1 @@
-# python-producer-consumer
+# Producer-consumer pattern in python
